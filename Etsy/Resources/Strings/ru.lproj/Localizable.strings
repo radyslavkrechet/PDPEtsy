@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Etsy
+
+  Created by Radislav Crechet on 4/4/17.
+  Copyright © 2017 RubyGarage. All rights reserved.
+*/
+
+AllCategories = "Все категории";
+
+Select = "Выбрать";
+Cancel = "Отмена";
+Product = "Продукт";
+Products = "Продуктов";
+
+Add = "Добавить";
+Delete = "Удалить";

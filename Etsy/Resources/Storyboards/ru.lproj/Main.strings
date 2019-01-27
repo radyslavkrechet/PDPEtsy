@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "2he-my-SC8"; */
+"2he-my-SC8.text" = "Цена";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "6pM-f0-YZX"; */
+"6pM-f0-YZX.title" = "Поиск";
+
+/* Class = "UILabel"; text = "Keyword"; ObjectID = "EDr-dl-xK7"; */
+"EDr-dl-xK7.text" = "Ключевое слово";
+
+/* Class = "UITabBarItem"; title = "Products"; ObjectID = "LBH-d4-N6x"; */
+"LBH-d4-N6x.title" = "Продукты";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "LrD-EF-UtS"; */
+"LrD-EF-UtS.text" = "Категория";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "W5G-Hp-I2T"; */
+"W5G-Hp-I2T.title" = "Добавить";
+
+/* Class = "UINavigationItem"; title = "Products"; ObjectID = "YSb-9P-y4G"; */
+"YSb-9P-y4G.title" = "Продукты";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "Z7f-gc-XS7"; */
+"Z7f-gc-XS7.title" = "Поиск";
+
+/* Class = "UIBarButtonItem"; title = "Submit"; ObjectID = "ZIv-BU-8Va"; */
+"ZIv-BU-8Va.title" = "Найти";
+
+/* Class = "UIBarButtonItem"; title = "Delete"; ObjectID = "Zm1-5N-nWr"; */
+"Zm1-5N-nWr.title" = "Удалить";
+
+/* Class = "UINavigationItem"; title = "Product"; ObjectID = "jhZ-OE-052"; */
+"jhZ-OE-052.title" = "Продукт";
+
+/* Class = "UIBarButtonItem"; title = "Select"; ObjectID = "o9O-Rw-pwd"; */
+"o9O-Rw-pwd.title" = "Выбрать";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "pL5-NL-ywR"; */
+"pL5-NL-ywR.text" = "Детали";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "z8l-eI-6Lw"; */
+"z8l-eI-6Lw.text" = "Имя";
