@@ -12,18 +12,18 @@ enum NetworkRouter: URLRequestConvertible {
     case loadCategories(parameters: Parameters)
     case loadProducts(parameters: Parameters)
     
-    fileprivate static let baseUrlString = "https://openapi.etsy.com/v2"
-    fileprivate static let apiKey = "api_key"
-    fileprivate static let apiValue = "4rgsv7etixthkxch0eo8r5b5"
+    private static let baseUrlString = "https://openapi.etsy.com/v2"
+    private static let apiKey = "api_key"
+    private static let apiValue = "4rgsv7etixthkxch0eo8r5b5"
     
-    fileprivate var method: HTTPMethod {
+    private var method: HTTPMethod {
         switch self {
         case .loadCategories, .loadProducts:
             return .get
         }
     }
     
-    fileprivate var path: String {
+    private var path: String {
         switch self {
         case .loadCategories:
             return "/taxonomy/categories"

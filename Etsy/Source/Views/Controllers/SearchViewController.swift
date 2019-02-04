@@ -12,9 +12,9 @@ class SearchViewController: UITableViewController, UITextFieldDelegate, UIPicker
     @IBOutlet var keyworkTextField: UITextField!
     @IBOutlet var categoryTextField: UITextField!
 
-    fileprivate var viewModel = SearchViewModel()
+    private var viewModel = SearchViewModel()
 
-    fileprivate enum SearchRowType: Int {
+    private enum SearchRowType: Int {
         case keyword, category
     }
     

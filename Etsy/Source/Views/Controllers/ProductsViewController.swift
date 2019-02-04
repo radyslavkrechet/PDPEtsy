@@ -15,8 +15,7 @@ class ProductsViewController: UICollectionViewController, UICollectionViewDelega
     
     var isSearching = false
     
-    fileprivate var viewModel = ProductsViewModel()
-    
+    private var viewModel = ProductsViewModel()
     private var leftBarButtonItem: UIBarButtonItem?
     
     // MARK: - Lifecycle
