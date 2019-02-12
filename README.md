@@ -1,4 +1,4 @@
-# Etsy #
+<h1><img src="https://github.com/radyslavkrechet/PDPEtsy/blob/master/Etsy/Resources/Assets/Assets.xcassets/AppIcon.appiconset/180.png" width="23" height="23">Etsy</h1>
 
 ### MVVM application that used: ###
 
